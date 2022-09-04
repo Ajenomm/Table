@@ -1,0 +1,12 @@
+table {
+    font-family: 'inter', sans-serif;
+}
+.element{
+    display: flex;
+    justify-content: space-between; 
+}
+td{
+    
+    font-size: 15px;
+    font-weight: 600;
+}
